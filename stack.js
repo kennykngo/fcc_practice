@@ -1,4 +1,5 @@
 // creates a stack
+// stack is FILO, queue is FIFO
 var Stack = function () {
   this.count = 0;
   this.storage = {};
